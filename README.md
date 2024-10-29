@@ -31,7 +31,7 @@
 
 | <p align="center"> <img src="./images/buscacaracoles.png" width="200" > <p>**Busca Caracoles**                 |
 |------------------------------------------------------------------------------|
-| 🔹 **Description:** "Busca caracoles" is a clone of Minesweeper, but the blank spaces are snails and the mines are spiders.. |
+| 🔹 **Description:** "Busca caracoles" is a clone of Minesweeper, but the blank spaces are snails and the mines are spiders.Use recursive search to find the joined snails. |
 | 🛠️ **Technologies:** `ReactJs`, `Typescript`,`CSS`| |
 | 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/buscacaracoles/) |
 | 💡 **Installation:** `npm install`  |

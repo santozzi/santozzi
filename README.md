@@ -1,5 +1,9 @@
  Hello I'm Sergio Antozzi
-<link rel="stylesheet" href="./css/styles.css">
+<style>
+  table{
+    background-color: red;
+}
+</style>
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">

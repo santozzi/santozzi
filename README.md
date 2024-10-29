@@ -21,6 +21,29 @@
 </tr>
 </table>
 
+| <p align="center"> <img src="./images/popcornia.png" width="200" > <p>**Popcornia**                 |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Project that provides information about movies, you can search by year, by protagonist and by title, it provides information about the cast of the selected movie and a trailer of it. This web site connects to the API TMDB|
+| 🛠️ **Technologies:** `ReactJs`, `TMDB`, `Javascript`,`CSS`|
+| 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/popcornia/) |
+| 💡 **Installation:** `npm install`  |
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.0 |                          
+
+| <p align="center"> <img src="./images/buscacaracoles.png" width="200" > <p>**Busca Caracoles**                 |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** "Busca caracoles" is a clone of Minesweeper, but the blank spaces are snails and the mines are spiders.. |
+| 🛠️ **Technologies:** `ReactJs`, `Typescript`,`CSS`| |
+| 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/buscacaracoles/) |
+| 💡 **Installation:** `npm install`  |
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.0 |
+
+| <p align="center"> <img src="./images/pokedesk.png" width="200" > <p>**Pokedex**                 |
+|------------------------------------------------------------------------------|
+| 🔹 **Description:** Project that uses the pokeapi API to display a pokemon encyclopedia. It is responsive, changing the presentation type depending on the size of the device. |
+| 🛠️ **Technologies:** `ReactJs`, `Typescript`,`CSS`,`Pokeapi`| |
+| 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/pokedex/) |
+| 💡 **Installation:** `npm install`  |
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.0 |
 
 
 

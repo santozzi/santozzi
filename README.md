@@ -1,10 +1,7 @@
- Hello I'm Sergio Antozzi
+ # Hello!!, I'm Sergio Antozzi
 
-  .table{
-    background-color: red;
-}
 
-<table class="table" align="center">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   

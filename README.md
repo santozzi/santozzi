@@ -1,5 +1,5 @@
  # Hello!!, I'm Sergio Antozzi
- <img  align="center"  src="./" />
+
 
 <table align="center">
 <tr border="none">

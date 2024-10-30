@@ -18,13 +18,80 @@
 </tr>
 </table>
 
-| <p align="center"> <img src="./images/popcornia.png" width="200" > <p>**Popcornia**                 |
-|------------------------------------------------------------------------------|
-| 🔹 **Description:** Project that provides information about movies, you can search by year, by protagonist and by title, it provides information about the cast of the selected movie and a trailer of it. This web site connects to the API TMDB|
-| 🛠️ **Technologies:** `ReactJs`, `TMDB`, `Javascript`,`CSS`|
-| 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/popcornia/) |
+<style>
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.card {
+  flex: 1 1 calc(33.333% - 16px);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex: 1 1 calc(50% - 16px);
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    flex: 1 1 100%;
+  }
+}
+
+.card-title {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.card-content {
+  font-size: 1em;
+  color: #555;
+}
+</style>
+
+<div class="card-container">
+  <div class="card">
+    <div class="card-title">Tarjeta 1</div>
+    <div class="card-content">Contenido de la tarjeta 1</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Tarjeta 2</div>
+    <div class="card-content">Contenido de la tarjeta 2</div>
+  </div>
+  <div class="card">
+    <div class="card-title">Tarjeta 3</div>
+    <div class="card-content">Contenido de la tarjeta 3</div>
+  </div>
+</div>
+
+| <img src="./images/popcornia.png" width="200" > | <img src="./images/popcornia.png" width="200" >|
+|:----------------------------------------------:|:------------------------------------------------:|
+| Row 1         | **Bold**        |
+| Row 2         | *Italic*        |
+| Row 3         | ~~Strike~~      |
+
+
+
+
+| <p align="center"> <img src="./images/popcornia.png" width="200" > </p>| <p align="center"> <img src="./images/popcornia.png" width="200" ></p>  |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 🔹 **Description:** Project that provides information about movies, you can search by year, by protagonist and by title, it provides information about the cast of the selected movie and a trailer of it. This web site connects to the API TMDB||
+| 🛠️ **Technologies:** `ReactJs`, `TMDB`, `Javascript`,`CSS`||
+| 🌐 **Demo:** [Link to Demo](https://santozzi.github.io/popcornia/) ||
 | 💡 **Installation:** `npm install`  |
-| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.0 |                          
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.|0 |                          
 
 | <p align="center"> <img src="./images/buscacaracoles.png" width="200" > <p>**Busca Caracoles**                 |
 |------------------------------------------------------------------------------|

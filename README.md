@@ -19,13 +19,13 @@
 </table>
 
 
-| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**The Best Buy**      <progress value="20" max="100"></progress>20%           |
+| <p align="center"> <img src="./images/flutterproject.png" width="200" > <p>**The Best Buy**               |
 |------------------------------------------------------------------------------|
 | 🔹 **Description:** Project for lab 4, it is a full stack of nodejs and Flutter, done as a team. It uses an api created with NodeJs which connects to Platzi fake strore api.|
 | 🛠️ **Technologies:** `Flutter`|
 | 🌐 **Repository:** [Link to Demo](https://github.com/santozzi/lab4tp2) |
 | 💡 **Installation:** `flutter pub get`  |
-| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  ✨ **Versión:** 1.0 |                          
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  20% ✨ **Versión:** 1.0 |                          
 
 
 | <p align="center"> <img src="./images/popcornia.png" width="200" > <p>**Popcornia**                 |

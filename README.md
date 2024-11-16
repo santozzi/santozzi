@@ -25,7 +25,7 @@
 | 🛠️ **Technologies:** `Flutter`|
 | 🌐 **Repository:** [Link to Demo](https://github.com/santozzi/lab4tp2) |
 | 💡 **Installation:** `flutter pub get`  |
-| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  20% ✨ **Versión:** 1.0 |                          
+| ![Estado](https://img.shields.io/badge/estado-en%20proceso-yellow)  30% ✨ **Versión:** 1.0 |                          
 
 
 | <p align="center"> <img src="./images/popcornia.png" width="200" > <p>**Popcornia**                 |
